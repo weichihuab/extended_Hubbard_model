@@ -1,0 +1,7 @@
+num_sites = 16
+num_upspin = 4
+num_dnspin = 4
+t1 = 1.0
+t2 = 0.0
+u1 = 8.0
+v1 = -1.0
