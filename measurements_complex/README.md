@@ -1,2 +1,2 @@
 # Description
-measurements_complex calculates charge, spin, s-wave, p-wave, and d-wave correlation functions.
+measurements_complex calculates charge, spin, s-wave, p-wave, and d-wave correlation functions using groun state eigenvector from hubbard_complex.
