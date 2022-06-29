@@ -1,0 +1,15 @@
+num_sites = 16
+num_upspin = 4
+num_dnspin = 4
+t1 = 1.0
+t2 = 0.0
+u1 = 8.0
+v1 = -1.0
+num_files_per_vec = 448
+degeneracy = 3
+A0 = 0.8
+t0 = 0.0
+sigma = 2.5
+omega = 11
+pol_x = 1.0
+pol_y = 0.0
